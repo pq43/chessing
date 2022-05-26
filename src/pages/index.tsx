@@ -20,7 +20,7 @@ const Home = () => {
               immediately.
             </p>
             <button className="bg-purple-400 hover:bg-purple-500 text-white font-bold py-8 px-16 rounded-full inline-flex items-center text-3xl my-10">
-              <span>Let&apos;s get started</span>
+              <a href="https://forms.gle/ZiRoAvDV4H5kLY8A6">Let&apos;s get started</a>
             </button>
           </div>
         </div>
